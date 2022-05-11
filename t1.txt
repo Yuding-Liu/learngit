@@ -1,5 +1,6 @@
 A = 1
-print(a);
+print("Bug in t1.txt fixed")
+print("Yeah, it's fixed")
 
 For I in range(0, 5):
     print(i)
