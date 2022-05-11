@@ -1,0 +1,5 @@
+A = 1
+print(a);
+
+For I in range(0, 5):
+    print(i)

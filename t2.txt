@@ -1,0 +1,3 @@
+Import t1.txt
+
+print("hello")
