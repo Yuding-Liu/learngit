@@ -1,6 +1,9 @@
 A = 1
 print("Bug in t1.txt fixed")
 print("Yeah, it's fixed")
+print("final update in the second branch")
 
 For I in range(0, 5):
     print(i)
+
+print("this is also from the second branch")
